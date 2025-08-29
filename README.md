@@ -1,2 +1,1 @@
-# mi-html-css-prepuppgift1
-Prepuppgift 1 HTML/CSS/JS
+Jobbade hela sommaren, har inga märkvärdiga färdigheter, inga partytrick eller något annat kul. Hoppas det är minnesvärt nog
